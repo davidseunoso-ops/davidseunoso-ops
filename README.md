@@ -1,16 +1,29 @@
-## Hi there 👋
+**Hi, I'm Oluwaseun David** 👋
 
-<!--
-**davidseunoso-ops/davidseunoso-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer in Training | Aspiring Full-Stack Developer**
 
-Here are some ideas to get you started:
+I'm currently learning and developing my skills in software engineering at Semicolon Africa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about understanding how software works, solving problems through code, and building practical projects that strengthen my programming foundation.
+
+💻 Technologies I'm Learning
+- Java
+- Python
+- JavaScript
+
+📚 Currently Exploring
+- Object-Oriented Programming (OOP)
+- Data Structures and Algorithms
+- Problem Solving
+- Software Testing and Test-Driven Development
+- Full-Stack Development
+
+🚀 Projects
+- **Nokia Mobile Phone Simulation:** A Java console application that simulates a classic Nokia phone menu.
+- **Credit Card Validator:** A Java project currently in development.
+
+🎯 My Goal
+To become a well-rounded Full-Stack Developer by consistently learning, building projects, improving my problem-solving skills, and growing as a software engineer.
+
+🤝 Let's Connect
+I'm open to learning opportunities, collaboration, and connecting with other developers.
